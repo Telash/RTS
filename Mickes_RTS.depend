@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1469009127 source:d:\mickes_rts\main.c
+	"RTS.h"
+
+1469009124 source:d:\mickes_rts\rts_misc.c
+	"RTS.h"
+
+1469009184 d:\mickes_rts\rts.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1470670874 
+
+1468267250 source:d:\cprojects\mickes_rts\main.c
+	"RTS.h"
+
+1468269067 d:\cprojects\mickes_rts\rts.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1468257346 source:d:\cprojects\mickes_rts\rts_misc.c
+	"RTS.h"
+
+1468267210 source:d:\cprojects\mickes_rts\graphics.c
+	"RTS.h"
+
+1468267351 source:d:\cprojects\mickes_rts\rts_graphics.c
+	"RTS.h"
+
+1469008352 source:d:\mickes_rts\rts_graphics.c
+	"RTS.h"
+
+1469008139 source:d:\mickes_rts\rts_create.c
+	"RTS.h"
+
+1469009124 source:d:\mickes_rts\rts_move.c
+	"RTS.h"
+
+1471098660 source:c:\mikael\code blocks c projects\mickes_rts\main.c
+	"RTS.h"
+
+1470934685 c:\mikael\code blocks c projects\mickes_rts\rts.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1471118263 source:c:\mikael\code blocks c projects\mickes_rts\rts_create.c
+	"RTS.h"
+
+1470909645 source:c:\mikael\code blocks c projects\mickes_rts\rts_graphics.c
+	"RTS.h"
+	<SDL_ttf.h>
+
+1470672194 >
+
+1470143516 source:c:\mikael\code blocks c projects\mickes_rts\rts_misc.c
+	"RTS.h"
+
+1470495749 source:c:\mikael\code blocks c projects\mickes_rts\rts_move.c
+	"RTS.h"
+
+1471098350 source:c:\mikael\code blocks c projects\mickes_rts\rts_fight.c
+	"RTS.h"
+
+1469614663 source:c:\mikael\code blocks c projects\mickes_rts\test.c
+
+1470670847 source:/media/telash/Main disk/Mikael/Code blocks C projects/Mickes_RTS/main.c
+	"RTS.h"
+
+1470670874 /media/telash/Main disk/Mikael/Code blocks C projects/Mickes_RTS/RTS.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1470588430 source:/media/telash/Main disk/Mikael/Code blocks C projects/Mickes_RTS/RTS_Create.c
+	"RTS.h"
+
+1470640793 source:/media/telash/Main disk/Mikael/Code blocks C projects/Mickes_RTS/RTS_Fight.c
+	"RTS.h"
+
+1470673366 source:/media/telash/Main disk/Mikael/Code blocks C projects/Mickes_RTS/RTS_Graphics.c
+	"RTS.h"
+	<SDL_ttf.h>
+
+1470143516 source:/media/telash/Main disk/Mikael/Code blocks C projects/Mickes_RTS/RTS_misc.c
+	"RTS.h"
+
+1470495749 source:/media/telash/Main disk/Mikael/Code blocks C projects/Mickes_RTS/RTS_Move.c
+	"RTS.h"
+
+1469614663 source:/media/telash/Main disk/Mikael/Code blocks C projects/Mickes_RTS/Test.c
+
+1471429546 source:c:\mikael\portfolio\mickes_rts\main.c
+	"RTS.h"
+
+1471431012 c:\mikael\portfolio\mickes_rts\rts.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<SDL_ttf.h>
+
+1471431012 source:c:\mikael\portfolio\mickes_rts\rts_create.c
+	"RTS.h"
+
+1471343645 source:c:\mikael\portfolio\mickes_rts\rts_fight.c
+	"RTS.h"
+
+1471431409 source:c:\mikael\portfolio\mickes_rts\rts_graphics.c
+	"RTS.h"
+
+1470143516 source:c:\mikael\portfolio\mickes_rts\rts_misc.c
+	"RTS.h"
+
+1471350939 source:c:\mikael\portfolio\mickes_rts\rts_move.c
+	"RTS.h"
+
+1469614663 source:c:\mikael\portfolio\mickes_rts\test.c
+

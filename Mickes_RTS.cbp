@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Mickes_RTS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Mickes_RTS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="mingw32" />
+					<Add library="libSDL2main" />
+					<Add library="libSDL2" />
+					<Add library="libSDL2_image" />
+					<Add library="libSDL2_ttf" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Mickes_RTS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="RTS.h" />
+		<Unit filename="RTS_Create.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RTS_Fight.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RTS_Graphics.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RTS_Move.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RTS_misc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
